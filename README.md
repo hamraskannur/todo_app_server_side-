@@ -6,7 +6,7 @@
 
 in the project installation 
 
-# `npm install`
+###  `npm install`
 
 
 In the project directory, you can run:

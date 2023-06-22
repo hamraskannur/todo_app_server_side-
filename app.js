@@ -8,7 +8,7 @@ const port = 8000;
 
 app.use(
     cors({
-        origin: ["https://todo-nogz.onrender.com/"] ,
+        origin: ["https://todo-nogz.onrender.com"] ,
         methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
         credentials: true,
         exposedHeaders: ["Content-Length", "X-Foo", "X-Bar"],

@@ -5,6 +5,9 @@
 
  On the server-side, I used the MVC architecture and utilized the MongoDB framework Mongoose, along with JWT for authentication
 
+# environment variables
+    # databaseConection
+        The database connection means the URL for connecting to the database
 
  project installation 
 
